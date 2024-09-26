@@ -1,0 +1,278 @@
+{
+  "hero": {
+    "imgUrl": "/images/111.png",
+    "name": "Abdallah Samir",
+    "heading": "Hay! I’m Abdallah",
+    "typingText": ["I'm a Designer", 1500, "I'm a Developer", 1500],
+    "description": "A passionate and motivated Frontend Developer with 1 year of hands-on experience in building and maintaining responsive, user-friendly websites.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+"icon": "fa-brands:whatsapp",
+      "iconBgClass": "whatsapp",
+      "href": "https://wa.me/201032290323"
+    },
+    { "icon": "fa-brands:github", "iconBgClass": "github", "href": "https://github.com/AbdallahSamir98" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/abdallah-samir98/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/a (8).png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/a (7).png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/a (9).png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/a (5).png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/a (6).png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/a (4).png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/a (3).png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/a (2).png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/a.png",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner.png",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>FRONTEND</span> DEVELOPMENT PROJECTS",
+    "description": "I am a frontend developer with one year of experience, skilled in building responsive, user-friendly interfaces. My expertise includes working with HTML, CSS, JavaScript, TypeScript, and frameworks like Bootstrap, MUI, Tailwind CSS, and React. I am also experienced in integrating APIs to create dynamic, data-driven applications and use GitHub for version control and collaboration.",
+    "funfacts": [
+      {
+        "title": "client Review",
+        "number": 20
+      },
+      {
+        "title": "Years Experience",
+        "number": 1
+      },
+      {
+        "title": "projects",
+        "number": 30
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/75.png",
+        "title": "Furns",
+        "subTitle": "Website Design",
+        "details": {
+        "fullthumbUrl": "/images/fullfurns.png",
+
+        "title": "Website Design for Global Furniture Store",
+        "description": "Furns is a global furniture e-commerce platform built using React, MUI, and Bootstrap. The site features user authentication, allowing customers to register, log in, and manage their carts seamlessly. API integration ensures a smooth experience for shopping, checking cart contents, and more.",
+          "type": "Website",
+          "langages": "react, HTML, CSS, JS",
+          "platform": "react",
+          "country": "egypt",
+          "url": "https://furns-tan.vercel.app/"
+        }
+      },
+      {
+       "thumbUrl": "/images/hg2.png",
+  "title": "Hg Real Estate",
+  "subTitle": "Website Design",
+  "details": {
+    "fullthumbUrl": "/images/fullhg.png",
+    "title": "Website Design for Hg Real Estate",
+    "description": "Hg Real Estate is a company specializing in properties in Saudi Arabia. This full dynamic website is built using React and integrates APIs for seamless functionality. It supports both Arabic and English languages and offers dark and light mode options. The site is fully responsive, ensuring an optimal viewing experience on all devices, and is hosted on a live domain.",
+    "type": "Website",
+    "langages": "React, HTML, CSS, JavaScript",
+    "platform": "React",
+    "country": "Saudi Arabia",
+    "url": "https://hg.tanfith-digital.com/"
+  }
+      },
+
+      {
+        "thumbUrl": "/images/askan.png",
+  "title": "Nahda askan Real Estate",
+  "subTitle": "Website Design",
+  "details": {
+    "fullthumbUrl": "/images/fullaskan.png",
+    "title": "Website Design for Nahda askan Real Estate",
+    "description": "Nahda askan Real Estate is a company specializing in properties in Saudi Arabia. This full dynamic website is built using React and integrates APIs for seamless functionality. It supports both Arabic and English languages and offers dark and light mode options. The site is fully responsive, ensuring an optimal viewing experience on all devices, and is hosted on a live domain.",
+    "type": "Website",
+    "langages": "React, HTML, CSS, JavaScript",
+    "platform": "React",
+    "country": "Saudi Arabia",
+    "url": "https://nahdascan.tanfith-digital.com/"
+  }
+      },
+
+      {
+        "thumbUrl": "/images/logo.webp",
+        "title": "Shopingo E-Commerce",
+        "subTitle": "Website Design",
+        "details": {
+          "fullthumbUrl": "/images/fullshopingo.png",
+          "title": "Website Design for Shopingo E-Commerce",
+          "description": "Shopingo is an e-commerce platform specializing in a wide range of products in Saudi Arabia. This fully dynamic website is built using React and integrates APIs for seamless functionality. It supports both Arabic and English languages and offers dark and light mode options. The site is fully responsive, ensuring an optimal viewing experience on all devices, and is hosted on a live domain.",
+          "type": "E-Commerce",
+          "langages": "React, HTML, CSS, JavaScript",
+          "platform": "React",
+          "country": "Saudi Arabia",
+          "url": "https://shopingo-ecommerce-sandy.vercel.app/"
+        }
+      },
+      {
+        "thumbUrl": "/images/HBO.png",
+        "title": "HBO Trending Movies",
+        "subTitle": "Website Design",
+        "details": {
+          "fullthumbUrl": "/images/fullhbo.png",
+          "title": "Website Design for HBO Trending Movies",
+          "description": "HBO Trending Movies is an entertainment platform that showcases the latest and most popular films and TV shows. This fully dynamic website is built using React and integrates APIs to provide real-time data on trending content. It supports both Arabic and English languages, offering users a seamless experience with dark and light mode options. The site is fully responsive, ensuring an optimal viewing experience on all devices, and is hosted on a live domain.",
+          "type": "Entertainment",
+          "langages": "React, HTML, CSS, JavaScript",
+          "platform": "React",
+          "country": "Saudi Arabia",
+          "url": "https://trending-movies-tv-details.vercel.app/#/login"
+        }
+      }
+      
+      
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/website-development-banner.jpg",
+        "title": "Website Development",
+        "subTitle": "We specialize in developing responsive, SEO-friendly websites with modern designs that help boost your business visibility online and attract more customers.",
+        "icon": "bi:code-square",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/ui.jpg",
+        "title": "UI/UX Design",
+        "subTitle": "We create user-centered UI/UX designs that ensure smooth navigation and maximize engagement, resulting in improved user satisfaction and retention.",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/dash.jpg",
+        "title": "Dashboard Development",
+        "subTitle": "We build custom, intuitive dashboards that provide real-time insights, enabling businesses to track performance and make data-driven decisions effortlessly.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/host.jpg",
+        "title": "Hosting",
+        "subTitle": "Our secure and scalable hosting services ensure optimal website performance, with 99.9% uptime and fast loading speeds to keep your website running smoothly.",
+        "icon": "bi:cloud",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Front-end Developer",
+        "company": "tanfith digital solution",
+        "duration": "june 2024 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "Tanfith Digital Solution",
+        "companyDescription": 
+"As a Front-end Developer at Tanfith Digital Solution, I have successfully delivered over 10 high-quality projects, focusing on building responsive and dynamic websites. I specialize in transforming complex Figma designs into clean, efficient, and scalable code. My work involves seamless integration of back-end APIs, ensuring optimal user experiences. I am committed to delivering pixel-perfect, high-performance web applications that adhere to industry best practices, and I consistently ensure cross-browser and cross-device compatibility"      },
+      {
+        "designation": "Front-end Developer",
+        "company": "Ab-Nour Software House ",
+        "duration": "july 2023 - jan 2024",
+        "jobType": "Full time",
+        "companyTitle": "Ab-Nour Software House ",
+        "companyDescription": 
+"As a Front-end Developer at Ab-Nour Software House, I have successfully delivered over 4 high-quality projects, focusing on building responsive and dynamic websites. I specialize in transforming complex Figma designs into clean, efficient, and scalable code. My work involves seamless integration of back-end APIs, ensuring optimal user experiences. I am committed to delivering pixel-perfect, high-performance web applications that adhere to industry best practices, and I consistently ensure cross-browser and cross-device compatibility"      
+      },
+      {
+        "designation": "It help Desk ",
+        "company": "Elfouad international school",
+        "duration": "june 2022 - march 2023",
+        "jobType": "Full time",
+        "companyTitle": "Elfouad international school",
+        "companyDescription": "As an IT Help Desk professional at Elfouad International School, I was responsible for providing technical support and troubleshooting for staff and students. I managed hardware and software issues, performed routine system maintenance, and ensured smooth operation of IT resources. My role involved diagnosing technical problems, resolving network connectivity issues, and providing timely support for classroom technology. I consistently maintained a high level of service, ensuring minimal disruption to daily operations."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/q.png",
+    "contactInfo": [
+      { "title": " e-mail", "email": "abdallahsamir502@gmail.com" },
+      { "title": " phone", "tel": "+201032290323" }
+    ]
+  }
+}
