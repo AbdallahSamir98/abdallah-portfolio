@@ -384,6 +384,10 @@ a {
 /* ----------------------
 *   Services
 ---------------------------*/
+.services-box:hover .services-body{
+  transform: scale(1.05);
+  transition: 0.5s all;
+}
 .services-box {
   background-position: center;
   background-repeat: no-repeat;
@@ -837,3 +841,17 @@ a {
 ::-webkit-scrollbar-track {
   background-color: #040c16; /* Change the scrollbar track color */
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

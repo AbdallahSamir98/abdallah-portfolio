@@ -25,7 +25,7 @@ export default function Projects({ data }) {
     dots: true,
     arrows: false,
     infinite: true,
-    autoplay: true,
+    autoplay: false,
     autoplaySpeed: 4000,
     speed: 1000,
     slidesToShow: 1,

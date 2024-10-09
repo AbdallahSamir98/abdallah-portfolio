@@ -104,7 +104,18 @@ export default function Header() {
         </ul>
         {/* Top Menu */}
         <div className="d-flex">
-          <ScrollLink
+        <a
+  href="/Abdallah-samir-frontend-cv.pdf" 
+  download="Abdallah-samir-frontend-cv.pdf" 
+  onClick={() => setMobileToggle(false)} 
+  className="px-btn d-none d-lg-inline-flex"
+  target="_blank" 
+>
+  Download Cv
+</a>
+
+
+          {/* <ScrollLink
             to="contactus"
             spy={true}
             smooth={true}
@@ -114,7 +125,7 @@ export default function Header() {
             className="px-btn d-none d-lg-inline-flex"
           >
             Lets' Talk
-          </ScrollLink>
+          </ScrollLink> */}
           <button
             className="toggler-menu d-lg-none"
             onClick={() => setMobileToggle(!mobileToggle)}

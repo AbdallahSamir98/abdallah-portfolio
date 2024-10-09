@@ -78,7 +78,8 @@ export default function Hero({ data, socialData }) {
             src="/images/effect-1.svg"
             alt="Shape"
             data-aos="zoom-in"
-            
+            data-aos-duration="1200"
+            data-aos-delay="500"
             style={{
               animation: 'spin 30s linear infinite',
             }}
